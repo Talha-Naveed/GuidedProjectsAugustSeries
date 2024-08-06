@@ -1,0 +1,5 @@
+The example file is like a skeleton for others to work on. IT requires a subscription to run.
+
+The "YT_ScriptGen.py" files run using the command "streamlit run YT_ScriptGen.py"
+
+Make sure to install requirements.txt
